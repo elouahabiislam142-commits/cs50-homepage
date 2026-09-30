@@ -1,0 +1,37 @@
+CS50 Homepage - Specification
+
+HTML tags used:
+
+1. <nav> - Navigation bar
+2. <div> - Groups and organizes page content
+3. <main> - Contains the main content of each page
+4. <h1> - Main headings
+5. <h2> - Secondary headings
+6. <p> - Paragraphs of text
+7. <a> - Navigation links between pages
+8. <ul> - Unordered list of projects
+9. <li> - Individual project items
+10. <form> - Contact form
+11. <label> - Labels for form fields
+12. <input> - Name and email input fields
+13. <textarea> - Message input field
+14. <button> - Interactive buttons
+
+CSS properties used:
+
+1. font-family - Sets the font used on the website
+2. background-color - Sets background colors
+3. color - Sets text colors
+4. margin - Controls spacing around elements
+5. padding - Controls spacing inside elements
+6. border - Adds borders to elements
+7. border-radius - Rounds the corners of elements
+8. width - Controls the width of form fields
+9. box-shadow - Adds a shadow to the contact form
+10. line-height - Controls the spacing between lines of text
+
+JavaScript:
+JavaScript is used to make the website interactive by displaying messages when the homepage button is clicked and when the contact form is submitted.
+
+Bootstrap:
+Bootstrap is used for the navigation bar, button styling, spacing, and responsive layout.
